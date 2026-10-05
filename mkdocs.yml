@@ -12,3 +12,4 @@ nav:
   - Home: index.md
   - Getting Started: gettingstarted.md
   - Tutorials: tutorials.md
+  - APIDocumentation.md
