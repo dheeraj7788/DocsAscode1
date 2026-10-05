@@ -1,0 +1,14 @@
+site_name: My Project
+site_description: Sample Documentation Portal
+site_author: Dheeraj Nagar
+
+theme:
+  name: material
+
+plugins:
+  - search
+
+nav:
+  - Home: index.md
+  - Getting Started: gettingstarted.md
+  - Tutorials: tutorials.md
